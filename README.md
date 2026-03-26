@@ -6,8 +6,8 @@ A simple todo application with CRUD operations
 - [x] 📋 planner
 - [x] 🏗️ architect
 - [x] 🎨 designer
-- [~] 👨‍💻 senior-coder
-- [ ] 👨‍🎓 junior-coder
+- [x] 👨‍💻 senior-coder
+- [~] 👨‍🎓 junior-coder
 - [ ] 🧪 tester
 - [ ] ✅ qa
 - [ ] 🔒 security
