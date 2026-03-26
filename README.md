@@ -6,5 +6,5 @@ A simple todo application with CRUD operations
 - [x] Architect
 - [x] Coder
 - [x] Qa
-- [~] Reviewer
-- [ ] Shipper
+- [x] Reviewer
+- [~] Shipper
