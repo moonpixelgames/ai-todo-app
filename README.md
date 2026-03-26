@@ -3,8 +3,8 @@
 A simple todo application with CRUD operations
 
 ## Pipeline Status
-- [~] Architect
-- [ ] Coder
+- [x] Architect
+- [~] Coder
 - [ ] Qa
 - [ ] Reviewer
 - [ ] Shipper
