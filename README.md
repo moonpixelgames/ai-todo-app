@@ -2,9 +2,15 @@
 
 A simple todo application with CRUD operations
 
-## Pipeline Status
-- [x] Architect
-- [x] Coder
-- [x] Qa
-- [x] Reviewer
-- [~] Shipper
+## Pipeline
+- [~] 📋 planner
+- [ ] 🏗️ architect
+- [ ] 🎨 designer
+- [ ] 👨‍💻 senior-coder
+- [ ] 👨‍🎓 junior-coder
+- [ ] 🧪 tester
+- [ ] ✅ qa
+- [ ] 🔒 security
+- [ ] 👀 reviewer
+- [ ] 📚 docs
+- [ ] 🚀 shipper
