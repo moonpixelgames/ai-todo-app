@@ -3,8 +3,8 @@
 A simple todo application with CRUD operations
 
 ## Pipeline
-- [~] 📋 planner
-- [ ] 🏗️ architect
+- [x] 📋 planner
+- [~] 🏗️ architect
 - [ ] 🎨 designer
 - [ ] 👨‍💻 senior-coder
 - [ ] 👨‍🎓 junior-coder
